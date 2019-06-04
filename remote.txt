@@ -2,3 +2,4 @@ first commit on branhc master and other text
 second commit on branch master and other text
 
 first commit on branhc featheB and other text
+second commit on branch featheB and oteher text
